@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Swift related to the conversion of strings to integers. The `myFunc` function attempts to convert a string to an integer and doubles it. However, it doesn't handle empty strings or strings with decimal points correctly. The solution demonstrates how to handle edge cases using optional binding and error checking.
